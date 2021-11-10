@@ -60,7 +60,7 @@ To use a remote pining service, change the defaults in the `./config.js` and
 1. set the value of `local` to `false`
 2. set the value of `remoteservice` to the nickname of your ipfs remote service 
 
-If you want to use the free pinning service from Pinata follow this guide https://docs.ipfs.io/how-to/work-with-pinning-services/#use-an-existing-pinning-service to get the API key and set it up in your IPFS instance.
+If you want to use the free 1GB pinning service from Pinata follow this guide https://docs.ipfs.io/how-to/work-with-pinning-services/#use-an-existing-pinning-service to get the API key and set it up in your IPFS instance.
 
 
 ## Unpin Everything and Start Over?
